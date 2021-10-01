@@ -76,13 +76,13 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ʜᴏɪ, ɪ ᴍ ᴛɢɴ ʀᴏʙᴏᴛ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ @The\_Godfather\_Network [❤](https://telegra.ph/file/655ab2c4cbbe99d503864.jpg)
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ @VENOMbot\_supportCHAT [❤](https://telegra.ph/file/3c6053eaff246c8ef3c9a.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴛɢɴ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/TGN_Ro_bot?startgroup=true"),
+            text="ᴀᴅᴅ ᴛɢɴ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/VENOMxMANAGER\_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
@@ -91,9 +91,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴅᴇᴠꜱ", url=f"https://t.me/TGN_DEV"),
+        InlineKeyboardButton(text="ᴅᴇᴠꜱ", url=f"https://t.me/VENOMxCRAZY"),
         InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
+            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/VENM_xd"
         ),
     ],
     [
